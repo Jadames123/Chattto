@@ -15,6 +15,8 @@ namespace Chattto.WebSocketServices
             server.Start();
 
             Console.WriteLine(server.ToString(), Environment.NewLine);
+            Console.WriteLine("mierda sapoperros");
+
 
             //I also can i try
 
